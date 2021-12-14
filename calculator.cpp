@@ -8,6 +8,7 @@ void mssg(){
 
 int main () {
 
+    float f;
     double x;
     double y;
     int number;
