@@ -1,4 +1,4 @@
-/*********** the beginning of our program project:  ********/
+/*********** the beginnig of our program project:  ********/
 
 #include <iostream>
 using namespace std;
@@ -15,7 +15,34 @@ void option (){
             cout << "\t******" << endl;
         break;
         case 4:
-
+            cout << "*"<< endl;
+            cout << "*" << endl;
+            cout << "*     *"<< endl;
+            cout << "*     *" << endl;
+            cout << "*******"<< endl;
+            cout << "      *"<< endl;
+            cout << "      *"<< endl;
+            cout << "      *"<< endl;
+            cout << "      *"<< endl;
+        break;
+        case 1:
+            cout << "    **" << endl;
+            cout << "   * *" << endl;
+            cout << "  *  *" << endl;
+            cout << " *   *" << endl;
+            cout << "     *" << endl;
+            cout << "     *" << endl;
+            cout << "     *" << endl;
+            cout << "     *" << endl;
+            cout << "     *" << endl;
+            cout << "  *******" << endl;
+        break;
+        case 2:
+            cout << "  ***"<< endl;
+            cout << " *   *" << endl;
+            cout << "    *"<< endl;
+            cout << "   *"<< endl;
+            cout << "  *****"<< endl;
         break;
         }
 }
